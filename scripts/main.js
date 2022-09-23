@@ -1,7 +1,7 @@
 const myHeading = document.querySelector('h1')
 myHeading.textContent = 'Low Cost Therapy In NYC'
 myHeading.addEventListener('click',function () {
-    alert('Welcome to Thearpy NY')
+    alert('Welcome to Thearpy NYC')
 })
 
 const myImage = document.querySelector('img')
