@@ -1,0 +1,61 @@
+/* Global Styles*/
+html{
+    font-family: "Vollkorn";
+}
+
+body {
+    margin: 0 auto;
+    line-height: 1.6;
+    letter-spacing: 1px;
+  
+}
+img{
+    display: block;
+    max-width: 100%;
+}
+*{
+    box-sizing: border-box;
+}
+section{
+    width: 80%;
+    margin: auto;
+}
+
+h2{
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+    text-decoration: underline;
+    color: #006666;
+
+}
+p,
+li{
+    font-size: 1.25rem;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #006666;
+}
+h1{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/* Introduction*/
+
+.slogan{
+    font-size: 4.75rem;
+    text-align: center;
+
+    padding: none;
+}
+
+.hero{
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+}
+
